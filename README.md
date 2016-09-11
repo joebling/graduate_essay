@@ -1,4 +1,4 @@
-This paper has been published in 2015.
+This paper was published in 2015, which has beeb cited by 7 until  2016年 09月 11日 星期日 12:07:42 CST.
 https://arxiv.org/abs/1410.0796
 
 Abstact:
